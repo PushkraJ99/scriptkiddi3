@@ -53,7 +53,7 @@ So basically, this is an autmation script for your initial recon in bugbounty
    SCRIPTKIDDI3 requires different tools to run successfully. Run the following command to install the latest version with all requirments-
 
  ```sh
-git clone https://github.com/thecyberneh/scriptkiddi3.git
+git clone https://github.com/PushkraJ99/scriptkiddi3.git
 cd scriptkiddi3
 bash installer.sh
 ```
